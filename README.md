@@ -1,6 +1,6 @@
 #HubSpot Lead Notifications for Slack
 
-####Author: SFairchild
+####Author: Henri
 
 ###Description: 
 
@@ -112,3 +112,5 @@ hash orgSecret in messageMetaData
 WISHLIST
 
 send to slack user based on HS owner
+
+Thanks.
